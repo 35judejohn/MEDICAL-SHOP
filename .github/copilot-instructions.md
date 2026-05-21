@@ -1,0 +1,4 @@
+- [x] Project scaffold created for e-medical booking website.
+- [x] Verify package.json, README, and initial app scaffold.
+- [x] Install dependencies and confirm project starts successfully.
+- [ ] Add any requested customizations from the user.
