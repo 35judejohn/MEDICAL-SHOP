@@ -8,7 +8,7 @@ const doctors = [
   },
   {
     id: 2,
-    name: 'Dr. Chinedu Okafor',
+    name: 'Dr. Wanemi Watson',
     specialty: 'Cardiologist',
     experience: 12,
     description: 'Experienced cardiologist specializing in heart health, blood pressure, and cardiac prevention.',
@@ -22,7 +22,7 @@ const doctors = [
   },
   {
     id: 4,
-    name: 'Dr. Emeka Nwosu',
+    name: 'Dr. Emeka Chukwuemeka',
     specialty: 'Pediatrician',
     experience: 10,
     description: 'Child health specialist dedicated to compassionate pediatric care for infants and teenagers.',
