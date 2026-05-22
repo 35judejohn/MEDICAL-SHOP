@@ -15,7 +15,7 @@ const doctors = [
   },
   {
     id: 3,
-    name: 'Dr. Funke Adesanya',
+    name: 'Dr. Fortune Hassan',
     specialty: 'Dermatologist',
     experience: 6,
     description: 'Skin specialist with expertise in acne treatment, allergy care, and cosmetic dermatology.',
